@@ -13,19 +13,19 @@ This project analyzes key socio-economic indicators across South Africa's nine p
 ## Findings
 
 ### 1. Households That Ran Out of Money to Buy Food
-![Food Security by Province](Images/food-security-by-province.PNG)
+![Food Security by Province](images/food-security-by-province.png)
 
 **Highest: Northern Cape (27.6%)**
 The Northern Cape is largely rural and sparsely populated, with limited economic opportunity and heavy reliance on agriculture — factors that increase vulnerability to food insecurity, especially during economic downturns.
 
 ### 2. Unemployment Levels
-![Unemployment by Province](Images/unemployment-by-province.PNG)
+![Unemployment by Province](images/unemployment-by-province.png)
 
 **Highest: Eastern Cape (39.7%)**
 The Eastern Cape has experienced long-term industrial decline and limited private investment, contributing to persistently high unemployment across the province.
 
 ### 3. Educational Attainment (Individuals Aged 20+)
-![Education Attainment by Province](Images/education-attainment-by-province.PNG)
+![Education Attainment by Province](images/education-attainment-by-province.png)
 
 **Highest: Gauteng (20.8%)**
 As South Africa's economic hub, Gauteng offers greater access to universities and skilled employment, drawing educated individuals from other provinces.
