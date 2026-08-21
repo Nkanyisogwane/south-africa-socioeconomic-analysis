@@ -1,6 +1,4 @@
-# Python Projects
-
-## Project Title: Socio-Economic Analysis of South African Provinces
+# Socio-Economic Analysis of South African Provinces
 
 ### Overview
 This project analyzes key socio-economic indicators across different provinces in South Africa, focusing on food security, unemployment levels, and educational attainment among individuals aged 20 and above. 
